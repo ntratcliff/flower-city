@@ -19,8 +19,8 @@ Work with your friends to grow a beautiful flower, and compete for the most grow
 
 ## Setup
 
-1. Place 4 **Central Stems** in a line growing upwards from the bottom of the **Play Board**.
-2. Give each player a **Score Card**, 6 **Offshoot Stems** and 5 **Leaves**, all of the same pattern.
+1. Place 4 **Central Stems** in a line growing upwards from the ground in the middle of the **Play Board**.
+2. Give each player a **Score Card**, 6 **Offshoot Stems** and 5 **Leaves** of the same pattern.
 3. Put all of the **Small Flowers** and **Big Flowers** in two separate piles next to the **Play Board**
 3. The most colorful player goes first! Give them the **First Player Leaf**.
 
