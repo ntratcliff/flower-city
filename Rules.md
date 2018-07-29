@@ -46,5 +46,4 @@ Summer is the _development_ phase. During the Summer, players take turns maturin
 * If, after you've matured your **Leaf**, the majority (more than half) of the leaves on the **Offshoot** are matured, the **Offshoot** is matured! Choose a **Small Flower** and put it in front of you. On your next turn, you must place the **Small Flower** on top of the matured **Offshoot**. Add 1 point to your **Score Card** for each **Offshoot Stem** and **Leaf** on the **Offshoot**. This uses your turn.
 * Once a **Flower** is placed on an **Offshoot**, no more **Leaves** on that **Offshoot** may be matured. **Leaves** may be matured in the turn between an **Offshoot** maturing and the scoring player placing their **Flower**, but doing so has no effect on the score or scoring player for that **Offshoot**.
 * You may not pass your turn. You may run out of moves to make, in which case your turn is skipped.
-* Once all **Offshoots** have a **Flower**, Summer--and the game--is over! The player with the most points wins, and may choose a **Large Flower** to place at the top of the **Central Stem**.
-
+* Once all players have run out of moves, Summer--and the game--is over! The player with the most points wins, and may choose a **Large Flower** to place at the top of the **Central Stem**.
