@@ -18,8 +18,8 @@ Work with your friends to grow a beautiful flower, and compete for the most grow
 
 ## Setup
 
-1. Place 4 Central Stems in a line growing upwards from the bottom of the Play Board.
-2. Give each player 6 Offshoot Stems and 5 leaves, all of the same pattern.
-3. The most colorful player goes first! Give them the First Player Leaf.
+1. Place 4 **Central Stems** in a line growing upwards from the bottom of the **Play Board**.
+2. Give each player 6 **Offshoot Stems** and 5 **Leaves**, all of the same pattern.
+3. The most colorful player goes first! Give them the **First Player Leaf**.
 
 
