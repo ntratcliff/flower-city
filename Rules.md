@@ -47,3 +47,7 @@ Summer is the _development_ phase. During the Summer, players take turns maturin
 * Once a **Flower** is placed on an **Offshoot**, no more **Leaves** on that **Offshoot** may be matured. **Leaves** may be matured in the turn between an **Offshoot** maturing and the scoring player placing their **Flower**, but doing so has no effect on the score or scoring player for that **Offshoot**.
 * You may not pass your turn. You may run out of moves to make, in which case your turn is skipped.
 * Once all players have run out of moves, Summer--and the game--is over! The player with the most points wins, and may choose a **Large Flower** to place at the top of the **Central Stem**.
+
+# Winning
+
+Once all players have run out of moves in Summer, the game is over. The player with the highest score wins, and gets to complete the plant by picking and placing a **Large Flower** at the top of the **Central Stem**.
