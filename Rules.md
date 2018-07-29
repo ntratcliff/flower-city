@@ -31,7 +31,9 @@ Flower City has two phases: **Spring**, and **Summer**.
 ### Spring
 Spring is the _growth_ phase. During the Spring, players take turns placing either a leaf or a stem on the plant, until all players have run out of pieces.
 
-* Starting with the first player, take turns placing either a leaf or a stem, according to their respective rules (see _Placement Rules_)
+* Starting with the first player, take turns placing 1 leaf or a stem.
+	* **Offshoot Stems** may only be placed at the end of another **Offshoot Stem**, or at the joint between two **Central Stem** pieces. There may only be one **Offshoot** per **Central Stem** joint. 
+	* **Leaves** may only be placed with one end at the joint between two **Offshoot Stems**, up to 2 per joint, one for each side.
 * If all **Central Stem** joints are occupied, and not all **Central Stem** segments have been placed, you may add another **Central Stem** segment to the main stem. This does not count as a turn.
 * Once all player pieces have been used, move to the **Summer** phase.
 
