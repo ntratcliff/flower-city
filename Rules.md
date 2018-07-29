@@ -26,7 +26,7 @@ Work with your friends to grow a beautiful flower, and compete for the most grow
 
 ## Phases
 
-Flower City has two phases: **Spring**, and **Summer**.
+Flower City has two phases: **Spring** and **Summer**.
 
 ### Spring
 Spring is the _growth_ phase. During the Spring, players take turns placing either a leaf or a stem on the plant, until all players have run out of pieces.
